@@ -1,0 +1,8 @@
+A := 3
+IF A = 3 THEN
+  B := 0
+ELSIF A = 2 THEN
+  B := 1
+ELSE
+  B := 2
+FI
