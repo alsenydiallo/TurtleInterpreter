@@ -9,7 +9,7 @@ Modification History:
 
 Description:
   A simple interpreter that reads in a "Turtle Graphics" program,
-  inteprets the program, which in turn outputs a sequence
+  interprets the program, which in turn outputs a sequence
   of commands which control a "virtual turtle" which can draw
   interesting pictures on the 2D plane with a pen sticking
   out of its belly.
